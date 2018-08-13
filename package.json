@@ -1,0 +1,27 @@
+{
+  "name": "anyPic",
+  "version": "1.0.0",
+  "description": "Any picture",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lyule/anyPic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lyule/anyPic/issues"
+  },
+  "homepage": "https://github.com/Lyule/anyPic#readme",
+  "devDependencies": {
+    "koa": "^2.5.2",
+    "koa-router": "^7.4.0",
+    "memory-cache": "^0.2.0",
+    "request": "^2.88.0"
+  },
+  "dependencies": {}
+}
